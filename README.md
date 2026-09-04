@@ -1,12 +1,13 @@
 ## Hi, I am Elisa Ajxup Yax
 
-- 🔭 I’m currently a fourth year Informatics and Systems Engineering student.
-- 🌱 I’m currently learning web development technologies. 
-- 👯 I’m looking to collaborate on projects that help me improve my abilities.
-- 💻 You can find my projects in [my GitHub repositories](https://github.com/LisAY22?tab=repositories)
-- 💬 Ask me about Python, Java, SQL, HTML, ... 
-- 📫 How to reach me: [lisajxupyax@gmail.com](mailto:lisajxupyax@gmail.com)
-- 📕 More about me in my [CV](https://drive.google.com/file/d/1CYyv0l3EIEC5eJfaolTBZpL2ybT39Hwj/view?usp=sharing)
+- I’m currently a fifth year Informatics and Systems Engineering student.
+- I’m currently learning web development technologies. 
+- I’m looking to collaborate on projects that help me improve my abilities.
+- You can find my projects in [my GitHub repositories](https://github.com/LisAY22?tab=repositories)
+- Ask me about Python, Java, SQL, HTML, ... 
+- How to reach me: [lisajxupyax@gmail.com](mailto:lisajxupyax@gmail.com)
+- More about me in my [CV](https://drive.google.com/file/d/1CYyv0l3EIEC5eJfaolTBZpL2ybT39Hwj/view?usp=sharing)
+- I have knowledge in Odoo Community and Enterprise. 
 ----------
 ### 🔨 Languages and Tools
 <p align="left">
